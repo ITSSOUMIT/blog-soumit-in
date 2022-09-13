@@ -27,7 +27,8 @@ Obviously, this was a small task, so using for loops isn't a big problem. But, w
 ### map()
 ***map()*** transforms each array element in a clean and short way.
 1. Create a function that you want to apply.
-2. Use this function as a callback in map().
+2. Use this function as a callback in map().  
+
 This way, the function will be applied to each array element.
 ```
 let oldArr = [1, 2, 3, 4, 5]
